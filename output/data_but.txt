@@ -1,0 +1,5120 @@
+57
+step: 1
+128
+step: 1
+198
+step: 1
+257
+step: 1
+299
+step: 1
+348
+step: 1
+402
+step: 1
+481
+step: 1
+529
+step: 1
+586
+step: 1
+636
+step: 1
+687
+step: 1
+748
+step: 1
+810
+step: 1
+874
+step: 1
+940
+step: 1
+998
+step: 1
+1061
+step: 1
+1121
+step: 1
+1195
+step: 1
+1283
+step: 1
+1334
+step: 1
+1374
+step: 1
+1411
+step: 1
+1465
+step: 1
+1516
+step: 1
+1560
+step: 1
+1620
+step: 1
+1674
+step: 1
+1735
+step: 1
+1804
+step: 1
+1868
+step: 1
+1924
+step: 1
+1991
+step: 1
+2061
+step: 1
+2117
+step: 1
+2144
+step: 1
+2193
+step: 1
+2244
+step: 1
+2308
+step: 1
+2364
+step: 1
+2405
+step: 1
+2468
+step: 1
+2551
+step: 1
+2630
+step: 1
+2699
+step: 1
+2741
+step: 1
+2823
+step: 1
+2854
+step: 1
+2903
+step: 1
+2948
+step: 1
+3009
+step: 1
+3075
+step: 1
+3136
+step: 1
+3179
+step: 1
+3225
+step: 1
+3255
+step: 1
+3305
+step: 1
+3361
+step: 1
+3420
+step: 1
+3488
+step: 1
+3545
+step: 1
+3606
+step: 1
+3677
+step: 1
+3740
+step: 1
+3779
+step: 1
+3849
+step: 1
+3927
+step: 1
+4001
+step: 1
+4059
+step: 1
+4107
+step: 1
+4181
+step: 1
+4232
+step: 1
+4275
+step: 1
+4342
+step: 1
+4443
+step: 1
+4500
+step: 1
+4555
+step: 1
+4612
+step: 1
+4679
+step: 1
+4719
+step: 1
+4792
+step: 1
+4858
+step: 1
+4901
+step: 1
+4999
+step: 1
+5064
+step: 1
+5101
+step: 1
+5157
+step: 1
+5187
+step: 1
+5229
+step: 1
+5281
+step: 1
+5351
+step: 1
+5423
+step: 1
+5491
+step: 1
+5533
+step: 1
+5595
+step: 1
+5655
+step: 1
+5710
+step: 1
+5788
+step: 1
+5857
+step: 1
+5924
+step: 1
+5983
+step: 1
+6032
+step: 1
+6098
+step: 1
+6136
+step: 1
+6177
+step: 1
+6219
+step: 1
+6283
+step: 1
+6365
+step: 1
+6422
+step: 1
+6483
+step: 1
+6550
+step: 1
+6611
+step: 1
+6680
+step: 1
+6740
+step: 1
+6798
+step: 1
+6881
+step: 1
+6924
+step: 1
+6984
+step: 1
+7017
+step: 1
+7074
+step: 1
+7123
+step: 1
+7187
+step: 1
+7236
+step: 1
+7331
+step: 1
+7404
+step: 1
+7471
+step: 1
+7520
+step: 1
+7581
+step: 1
+7623
+step: 1
+7690
+step: 1
+7790
+step: 1
+7846
+step: 1
+7900
+step: 1
+7962
+step: 1
+8053
+step: 1
+8107
+step: 1
+8150
+step: 1
+8217
+step: 1
+8324
+step: 1
+8387
+step: 1
+8436
+step: 1
+8514
+step: 1
+8590
+step: 1
+8630
+step: 1
+8691
+step: 1
+8748
+step: 1
+8812
+step: 1
+8909
+step: 1
+8974
+step: 1
+9024
+step: 1
+9074
+step: 1
+9130
+step: 1
+9174
+step: 1
+9230
+step: 1
+9282
+step: 1
+9330
+step: 1
+9369
+step: 1
+9418
+step: 1
+9457
+step: 1
+9518
+step: 1
+9575
+step: 1
+9642
+step: 1
+9723
+step: 1
+9795
+step: 1
+9844
+step: 1
+9916
+step: 1
+9994
+step: 1
+10036
+step: 1
+10081
+step: 1
+10141
+step: 1
+10246
+step: 1
+10325
+step: 1
+10410
+step: 1
+10485
+step: 1
+10547
+step: 1
+10586
+step: 1
+10643
+step: 1
+10722
+step: 1
+10792
+step: 1
+10867
+step: 1
+10937
+step: 1
+10988
+step: 1
+11062
+step: 1
+11126
+step: 1
+11172
+step: 1
+11228
+step: 1
+11276
+step: 1
+11334
+step: 1
+11392
+step: 1
+11446
+step: 1
+11511
+step: 1
+11562
+step: 1
+11628
+step: 1
+11689
+step: 1
+11757
+step: 1
+11812
+step: 1
+11884
+step: 1
+11928
+step: 1
+11990
+step: 1
+12030
+step: 1
+12077
+step: 1
+12140
+step: 1
+12245
+step: 1
+12310
+step: 1
+12362
+step: 1
+12409
+step: 1
+12470
+step: 1
+12518
+step: 1
+12592
+step: 1
+12651
+step: 1
+12711
+step: 1
+12779
+step: 1
+12851
+step: 1
+12888
+step: 1
+12931
+step: 1
+13009
+step: 1
+13076
+step: 1
+13118
+step: 1
+13157
+step: 1
+13221
+step: 1
+13269
+step: 1
+13342
+step: 1
+13403
+step: 1
+13448
+step: 1
+13490
+step: 1
+13551
+step: 1
+13617
+step: 1
+13684
+step: 1
+13735
+step: 1
+13798
+step: 1
+13847
+step: 1
+13910
+step: 1
+13968
+step: 1
+14028
+step: 1
+14122
+step: 1
+14186
+step: 1
+14246
+step: 1
+14320
+step: 1
+14373
+step: 1
+14440
+step: 1
+14484
+step: 1
+14563
+step: 1
+14627
+step: 1
+14724
+step: 1
+14798
+step: 1
+14855
+step: 1
+14950
+step: 1
+15018
+step: 1
+15071
+step: 1
+15125
+step: 1
+15169
+step: 1
+15230
+step: 1
+15281
+step: 1
+15338
+step: 1
+15396
+step: 1
+15446
+step: 1
+15512
+step: 1
+15570
+step: 1
+15642
+step: 1
+15702
+step: 1
+15738
+step: 1
+15782
+step: 1
+15851
+step: 1
+15920
+step: 1
+15987
+step: 1
+16044
+step: 1
+16133
+step: 1
+16220
+step: 1
+16278
+step: 1
+16323
+step: 1
+16376
+step: 1
+16434
+step: 1
+16500
+step: 1
+16545
+step: 1
+16611
+step: 1
+16694
+step: 1
+16749
+step: 1
+16822
+step: 1
+16897
+step: 1
+16968
+step: 1
+17028
+step: 1
+17085
+step: 1
+17132
+step: 1
+17211
+step: 1
+17288
+step: 1
+17381
+step: 1
+17450
+step: 1
+17502
+step: 1
+17563
+step: 1
+17617
+step: 1
+17708
+step: 1
+17769
+step: 1
+17819
+step: 1
+17872
+step: 1
+17928
+step: 1
+17981
+step: 1
+18026
+step: 1
+18070
+step: 1
+18169
+step: 1
+18262
+step: 1
+18341
+step: 1
+18433
+step: 1
+18513
+step: 1
+18583
+step: 1
+18640
+step: 1
+18695
+step: 1
+18733
+step: 1
+18778
+step: 1
+18833
+step: 1
+18895
+step: 1
+18934
+step: 1
+18998
+step: 1
+19051
+step: 1
+19106
+step: 1
+19163
+step: 1
+19244
+step: 1
+19301
+step: 1
+19367
+step: 1
+19430
+step: 1
+19477
+step: 1
+19555
+step: 1
+19606
+step: 1
+19678
+step: 1
+19719
+step: 1
+19806
+step: 1
+19870
+step: 1
+19931
+step: 1
+19999
+step: 1
+20061
+step: 1
+20161
+step: 1
+20282
+step: 1
+20373
+step: 1
+20453
+step: 1
+20524
+step: 1
+20616
+step: 1
+20667
+step: 1
+20734
+step: 1
+20782
+step: 1
+20845
+step: 1
+20909
+step: 1
+20985
+step: 1
+21033
+step: 1
+21090
+step: 1
+21139
+step: 1
+21183
+step: 1
+21241
+step: 1
+21307
+step: 1
+21382
+step: 1
+21468
+step: 1
+21527
+step: 1
+21585
+step: 1
+21638
+step: 1
+21689
+step: 1
+21723
+step: 1
+21806
+step: 1
+21870
+step: 1
+21939
+step: 1
+22019
+step: 1
+22089
+step: 1
+22177
+step: 1
+22236
+step: 1
+22316
+step: 1
+22417
+step: 1
+22492
+step: 1
+22542
+step: 1
+22587
+step: 1
+22637
+step: 1
+22725
+step: 1
+22784
+step: 1
+22856
+step: 1
+22904
+step: 1
+22972
+step: 1
+23041
+step: 1
+23096
+step: 1
+23155
+step: 1
+23226
+step: 1
+23280
+step: 1
+23311
+step: 1
+23373
+step: 1
+23444
+step: 1
+23516
+step: 1
+23582
+step: 1
+23635
+step: 1
+23700
+step: 1
+23764
+step: 1
+23836
+step: 1
+23921
+step: 1
+23990
+step: 1
+24067
+step: 1
+24139
+step: 1
+24201
+step: 1
+24263
+step: 1
+24326
+step: 1
+24379
+step: 1
+24476
+step: 1
+24536
+step: 1
+24588
+step: 1
+24654
+step: 1
+24741
+step: 1
+24795
+step: 1
+24855
+step: 1
+24942
+step: 1
+25003
+step: 1
+25063
+step: 1
+25140
+step: 1
+25192
+step: 1
+25238
+step: 1
+25287
+step: 1
+25332
+step: 1
+25391
+step: 1
+25451
+step: 1
+25505
+step: 1
+25615
+step: 1
+25690
+step: 1
+25738
+step: 1
+25816
+step: 1
+25907
+step: 1
+25976
+step: 1
+26071
+step: 1
+26159
+step: 1
+26251
+step: 1
+26330
+step: 1
+26373
+step: 1
+26452
+step: 1
+26547
+step: 1
+26620
+step: 1
+26715
+step: 1
+26748
+step: 1
+26813
+step: 1
+26897
+step: 1
+26980
+step: 1
+27046
+step: 1
+27108
+step: 1
+27193
+step: 1
+27264
+step: 1
+27340
+step: 1
+27406
+step: 1
+27469
+step: 1
+27520
+step: 1
+27574
+step: 1
+27621
+step: 1
+27669
+step: 1
+27720
+step: 1
+27776
+step: 1
+27865
+step: 1
+27925
+step: 1
+27990
+step: 1
+28096
+step: 1
+28161
+step: 1
+28234
+step: 1
+28330
+step: 1
+28459
+step: 1
+28581
+step: 1
+28713
+step: 1
+28869
+step: 1
+29042
+step: 1
+29203
+step: 1
+29334
+step: 1
+29450
+step: 1
+29502
+step: 1
+29558
+step: 1
+29623
+step: 1
+29696
+step: 1
+29785
+step: 1
+29884
+step: 1
+30012
+step: 1
+30089
+step: 1
+30159
+step: 1
+30237
+step: 1
+30326
+step: 1
+30368
+step: 1
+30422
+step: 1
+30476
+step: 1
+30528
+step: 1
+30582
+step: 1
+30644
+step: 1
+30714
+step: 1
+30762
+step: 1
+30805
+step: 1
+30916
+step: 1
+31017
+step: 1
+31134
+step: 1
+31229
+step: 1
+31339
+step: 1
+31421
+step: 1
+31475
+step: 1
+31574
+step: 1
+31692
+step: 1
+31806
+step: 1
+31891
+step: 1
+31981
+step: 1
+32074
+step: 1
+32133
+step: 1
+32206
+step: 1
+32283
+step: 1
+32371
+step: 1
+32456
+step: 1
+32546
+step: 1
+32663
+step: 1
+32767
+step: 1
+32854
+step: 1
+32922
+step: 1
+32966
+step: 1
+33018
+step: 1
+33077
+step: 1
+33132
+step: 1
+33198
+step: 1
+33252
+step: 1
+33321
+step: 1
+33369
+step: 1
+33427
+step: 1
+33789
+step: 1
+34030
+step: 1
+34161
+step: 1
+34265
+step: 1
+34366
+step: 1
+34487
+step: 1
+34604
+step: 1
+34690
+step: 1
+34812
+step: 1
+34901
+step: 1
+35055
+step: 1
+35193
+step: 1
+35324
+step: 1
+35435
+step: 1
+35546
+step: 1
+35647
+step: 1
+35731
+step: 1
+35854
+step: 1
+35942
+step: 1
+36033
+step: 1
+36123
+step: 1
+36207
+step: 1
+36266
+step: 1
+36309
+step: 1
+36374
+step: 1
+36451
+step: 1
+36511
+step: 1
+36576
+step: 1
+36652
+step: 1
+36724
+step: 1
+36783
+step: 1
+36852
+step: 1
+37172
+step: 1
+37315
+step: 1
+37459
+step: 1
+37610
+step: 1
+37814
+step: 1
+37998
+step: 1
+38122
+step: 1
+38233
+step: 1
+38388
+step: 1
+38589
+step: 1
+38744
+step: 1
+38833
+step: 1
+38935
+step: 1
+39025
+step: 1
+39158
+step: 1
+39239
+step: 1
+39327
+step: 1
+39492
+step: 1
+39620
+step: 1
+39781
+step: 1
+39977
+step: 1
+40164
+step: 1
+40249
+step: 1
+40345
+step: 1
+40435
+step: 1
+40554
+step: 1
+40663
+step: 1
+40771
+step: 1
+40865
+step: 1
+40969
+step: 1
+41017
+step: 1
+41094
+step: 1
+41454
+step: 1
+41654
+step: 1
+41782
+step: 1
+41868
+step: 1
+42040
+step: 1
+42178
+step: 1
+42291
+step: 1
+42451
+step: 1
+42692
+step: 1
+42941
+step: 1
+43242
+step: 1
+43538
+step: 1
+43934
+step: 1
+44215
+step: 1
+44434
+step: 1
+44625
+step: 1
+44819
+step: 1
+45032
+step: 1
+45246
+step: 1
+45415
+step: 1
+45614
+step: 1
+45794
+step: 1
+45943
+step: 1
+46033
+step: 1
+46178
+step: 1
+46395
+step: 1
+46600
+step: 1
+46760
+step: 1
+46921
+step: 1
+47111
+step: 1
+47278
+step: 1
+47455
+step: 1
+47593
+step: 1
+47681
+step: 1
+47762
+step: 1
+47851
+step: 1
+47945
+step: 1
+48028
+step: 1
+48127
+step: 1
+48220
+step: 1
+48338
+step: 1
+48454
+step: 1
+48572
+step: 1
+48720
+step: 1
+48855
+step: 1
+49011
+step: 1
+49109
+step: 1
+49229
+step: 1
+49375
+step: 1
+49521
+step: 1
+49654
+step: 1
+49762
+step: 1
+49934
+step: 1
+50113
+step: 1
+50293
+step: 1
+50461
+step: 1
+50601
+step: 1
+50769
+step: 1
+50937
+step: 1
+51129
+step: 1
+51305
+step: 1
+51528
+step: 1
+51748
+step: 1
+52050
+step: 1
+52174
+step: 1
+52266
+step: 1
+52338
+step: 1
+52411
+step: 1
+52497
+step: 1
+52577
+step: 1
+52696
+step: 1
+52807
+step: 1
+52873
+step: 1
+52983
+step: 1
+53069
+step: 1
+53177
+step: 1
+53320
+step: 1
+53440
+step: 1
+53551
+step: 1
+53615
+step: 1
+53697
+step: 1
+53765
+step: 1
+53840
+step: 1
+53916
+step: 1
+54034
+step: 1
+54114
+step: 1
+54208
+step: 1
+54280
+step: 1
+54340
+step: 1
+54398
+step: 1
+54479
+step: 1
+54540
+step: 1
+54599
+step: 1
+54675
+step: 1
+54740
+step: 1
+54797
+step: 1
+54905
+step: 1
+55015
+step: 1
+55122
+step: 1
+55194
+step: 1
+55263
+step: 1
+55348
+step: 1
+55447
+step: 1
+55549
+step: 1
+55656
+step: 1
+55771
+step: 1
+55871
+step: 1
+55988
+step: 1
+56182
+step: 1
+56346
+step: 1
+56495
+step: 1
+56596
+step: 1
+56685
+step: 1
+56804
+step: 1
+56885
+step: 1
+56961
+step: 1
+57103
+step: 1
+57216
+step: 1
+57274
+step: 1
+57325
+step: 1
+57379
+step: 1
+57453
+step: 1
+57540
+step: 1
+57615
+step: 1
+57701
+step: 1
+57778
+step: 1
+57844
+step: 1
+57905
+step: 1
+58057
+step: 1
+58145
+step: 1
+58237
+step: 1
+58311
+step: 1
+58393
+step: 1
+58485
+step: 1
+58599
+step: 1
+58736
+step: 1
+58873
+step: 1
+59004
+step: 1
+59127
+step: 1
+59344
+step: 1
+59555
+step: 1
+59784
+step: 1
+59968
+step: 1
+60094
+step: 1
+60205
+step: 1
+60306
+step: 1
+60430
+step: 1
+60533
+step: 1
+60647
+step: 1
+60761
+step: 1
+60841
+step: 1
+60945
+step: 1
+61009
+step: 1
+61111
+step: 1
+61189
+step: 1
+61261
+step: 1
+61342
+step: 1
+61406
+step: 1
+61476
+step: 1
+61556
+step: 1
+61808
+step: 1
+61966
+step: 1
+62106
+step: 1
+62209
+step: 1
+62267
+step: 1
+62354
+step: 1
+62474
+step: 1
+62595
+step: 1
+62691
+step: 1
+62851
+step: 1
+63105
+step: 1
+63497
+step: 1
+63913
+step: 1
+64312
+step: 1
+64576
+step: 1
+64843
+step: 1
+65057
+step: 1
+65194
+step: 1
+65297
+step: 1
+65423
+step: 1
+65568
+step: 1
+65708
+step: 1
+65821
+step: 1
+65905
+step: 1
+65996
+step: 1
+66126
+step: 1
+66230
+step: 1
+66325
+step: 1
+66439
+step: 1
+66540
+step: 1
+66615
+step: 1
+66680
+step: 1
+66927
+step: 1
+67085
+step: 1
+67177
+step: 1
+67258
+step: 1
+67347
+step: 1
+67434
+step: 1
+67540
+step: 1
+67652
+step: 1
+67757
+step: 1
+67883
+step: 1
+67967
+step: 1
+68080
+step: 1
+68233
+step: 1
+68381
+step: 1
+68559
+step: 1
+68793
+step: 1
+69024
+step: 1
+69268
+step: 1
+69609
+step: 1
+70003
+step: 1
+70332
+step: 1
+70635
+step: 1
+70859
+step: 1
+70998
+step: 1
+71147
+step: 1
+71364
+step: 1
+71602
+step: 1
+71730
+step: 1
+71898
+step: 1
+72024
+step: 1
+72119
+step: 1
+72190
+step: 1
+72301
+step: 1
+72383
+step: 1
+72483
+step: 1
+72565
+step: 1
+72646
+step: 1
+72718
+step: 1
+72770
+step: 1
+72848
+step: 1
+72930
+step: 1
+73014
+step: 1
+73073
+step: 1
+73150
+step: 1
+73243
+step: 1
+73319
+step: 1
+73436
+step: 1
+73607
+step: 1
+73749
+step: 1
+73871
+step: 1
+74022
+step: 1
+74149
+step: 1
+74328
+step: 1
+74527
+step: 1
+74676
+step: 1
+74820
+step: 1
+74973
+step: 1
+75128
+step: 1
+75284
+step: 1
+75416
+step: 1
+75523
+step: 1
+75652
+step: 1
+75789
+step: 1
+75915
+step: 1
+75982
+step: 1
+76056
+step: 1
+76127
+step: 1
+76204
+step: 1
+76309
+step: 1
+76361
+step: 1
+76436
+step: 1
+76509
+step: 1
+76594
+step: 1
+76657
+step: 1
+76720
+step: 1
+76789
+step: 1
+76875
+step: 1
+76955
+step: 1
+76995
+step: 1
+77045
+step: 1
+77125
+step: 1
+77197
+step: 1
+77262
+step: 1
+77315
+step: 1
+77385
+step: 1
+77458
+step: 1
+77534
+step: 1
+77616
+step: 1
+77711
+step: 1
+77802
+step: 1
+77921
+step: 1
+78087
+step: 1
+78286
+step: 1
+78451
+step: 1
+78605
+step: 1
+78759
+step: 1
+78826
+step: 1
+78926
+step: 1
+78967
+step: 1
+79025
+step: 1
+79104
+step: 1
+79174
+step: 1
+79249
+step: 1
+79334
+step: 1
+79395
+step: 1
+79451
+step: 1
+79523
+step: 1
+79605
+step: 1
+79700
+step: 1
+79774
+step: 1
+79829
+step: 1
+79892
+step: 1
+79978
+step: 1
+80061
+step: 1
+80152
+step: 1
+80227
+step: 1
+80302
+step: 1
+80369
+step: 1
+80455
+step: 1
+80495
+step: 1
+80585
+step: 1
+80675
+step: 1
+80739
+step: 1
+80806
+step: 1
+80862
+step: 1
+80945
+step: 1
+81036
+step: 1
+81133
+step: 1
+81220
+step: 1
+81297
+step: 1
+81383
+step: 1
+81490
+step: 1
+81594
+step: 1
+81716
+step: 1
+81813
+step: 1
+81909
+step: 1
+82015
+step: 1
+82086
+step: 1
+82148
+step: 1
+82214
+step: 1
+82279
+step: 1
+82333
+step: 1
+82419
+step: 1
+82518
+step: 1
+82613
+step: 1
+82688
+step: 1
+82756
+step: 1
+82825
+step: 1
+82925
+step: 1
+82993
+step: 1
+83045
+step: 1
+83129
+step: 1
+83245
+step: 1
+83357
+step: 1
+83455
+step: 1
+83522
+step: 1
+83578
+step: 1
+83652
+step: 1
+83746
+step: 1
+83824
+step: 1
+83902
+step: 1
+83994
+step: 1
+84105
+step: 1
+84209
+step: 1
+84301
+step: 1
+84342
+step: 1
+84423
+step: 1
+84524
+step: 1
+84593
+step: 1
+84681
+step: 1
+84764
+step: 1
+84866
+step: 1
+84928
+step: 1
+85004
+step: 1
+85076
+step: 1
+85131
+step: 1
+85231
+step: 1
+85304
+step: 1
+85367
+step: 1
+85428
+step: 1
+85513
+step: 1
+85584
+step: 1
+85634
+step: 1
+85706
+step: 1
+85816
+step: 1
+85936
+step: 1
+86020
+step: 1
+86088
+step: 1
+86183
+step: 1
+86261
+step: 1
+86346
+step: 1
+86416
+step: 1
+86530
+step: 1
+86616
+step: 1
+86702
+step: 1
+86768
+step: 1
+86844
+step: 1
+86942
+step: 1
+87013
+step: 1
+87070
+step: 1
+87142
+step: 1
+87247
+step: 1
+87343
+step: 1
+87412
+step: 1
+87518
+step: 1
+87614
+step: 1
+87697
+step: 1
+87788
+step: 1
+87869
+step: 1
+87947
+step: 1
+87982
+step: 1
+88042
+step: 1
+88112
+step: 1
+88163
+step: 1
+88225
+step: 1
+88279
+step: 1
+88371
+step: 1
+88433
+step: 1
+88488
+step: 1
+88557
+step: 1
+88644
+step: 1
+88704
+step: 1
+88766
+step: 1
+88838
+step: 1
+88876
+step: 1
+88930
+step: 1
+89000
+step: 1
+89064
+step: 1
+89117
+step: 1
+89152
+step: 1
+89198
+step: 1
+89249
+step: 1
+89323
+step: 1
+89443
+step: 1
+89556
+step: 1
+89649
+step: 1
+89741
+step: 1
+89812
+step: 1
+89902
+step: 1
+89958
+step: 1
+90010
+step: 1
+90066
+step: 1
+90129
+step: 1
+90215
+step: 1
+90307
+step: 1
+90369
+step: 1
+90425
+step: 1
+90476
+step: 1
+90539
+step: 1
+90614
+step: 1
+90683
+step: 1
+90744
+step: 1
+90809
+step: 1
+90884
+step: 1
+90949
+step: 1
+90999
+step: 1
+57
+step: 1
+128
+step: 1
+204
+step: 1
+261
+step: 1
+303
+step: 1
+348
+step: 1
+391
+step: 1
+463
+step: 1
+511
+step: 1
+563
+step: 1
+611
+step: 1
+659
+step: 1
+720
+step: 1
+785
+step: 1
+849
+step: 1
+912
+step: 1
+971
+step: 1
+1024
+step: 1
+1080
+step: 1
+1153
+step: 1
+1243
+step: 1
+1312
+step: 1
+1349
+step: 1
+1395
+step: 1
+1447
+step: 1
+1500
+step: 1
+1544
+step: 1
+1604
+step: 1
+1658
+step: 1
+1716
+step: 1
+1783
+step: 1
+1849
+step: 1
+1905
+step: 1
+1972
+step: 1
+2044
+step: 1
+2101
+step: 1
+2128
+step: 1
+2173
+step: 1
+2222
+step: 1
+2284
+step: 1
+2330
+step: 1
+2377
+step: 1
+2441
+step: 1
+2526
+step: 1
+2602
+step: 1
+2674
+step: 1
+2717
+step: 1
+2790
+step: 1
+2817
+step: 1
+2867
+step: 1
+2915
+step: 1
+2979
+step: 1
+3053
+step: 1
+3127
+step: 1
+3174
+step: 1
+3221
+step: 1
+3251
+step: 1
+3301
+step: 1
+3357
+step: 1
+3416
+step: 1
+3484
+step: 1
+3542
+step: 1
+3598
+step: 1
+3673
+step: 1
+3736
+step: 1
+3775
+step: 1
+3850
+step: 1
+3927
+step: 1
+4002
+step: 1
+4055
+step: 1
+4103
+step: 1
+4174
+step: 1
+4220
+step: 1
+4266
+step: 1
+4328
+step: 1
+4429
+step: 1
+4490
+step: 1
+4548
+step: 1
+4610
+step: 1
+4679
+step: 1
+4725
+step: 1
+4796
+step: 1
+4856
+step: 1
+4901
+step: 1
+4995
+step: 1
+5063
+step: 1
+5105
+step: 1
+5161
+step: 1
+5191
+step: 1
+5233
+step: 1
+5285
+step: 1
+5355
+step: 1
+5427
+step: 1
+5497
+step: 1
+5547
+step: 1
+5608
+step: 1
+5670
+step: 1
+5728
+step: 1
+5804
+step: 1
+5874
+step: 1
+5937
+step: 1
+5990
+step: 1
+6031
+step: 1
+6092
+step: 1
+6133
+step: 1
+6176
+step: 1
+6225
+step: 1
+6292
+step: 1
+6376
+step: 1
+6439
+step: 1
+6496
+step: 1
+6557
+step: 1
+6613
+step: 1
+6686
+step: 1
+6734
+step: 1
+6787
+step: 1
+6864
+step: 1
+6915
+step: 1
+6975
+step: 1
+7010
+step: 1
+7072
+step: 1
+7123
+step: 1
+7179
+step: 1
+7230
+step: 1
+7329
+step: 1
+7402
+step: 1
+7465
+step: 1
+7523
+step: 1
+7584
+step: 1
+7626
+step: 1
+7693
+step: 1
+7786
+step: 1
+7842
+step: 1
+7889
+step: 1
+7946
+step: 1
+8030
+step: 1
+8088
+step: 1
+8136
+step: 1
+8202
+step: 1
+8305
+step: 1
+8370
+step: 1
+8415
+step: 1
+8491
+step: 1
+8561
+step: 1
+8597
+step: 1
+8662
+step: 1
+8720
+step: 1
+8781
+step: 1
+8859
+step: 1
+8922
+step: 1
+8973
+step: 1
+9016
+step: 1
+9070
+step: 1
+9116
+step: 1
+9168
+step: 1
+9217
+step: 1
+9265
+step: 1
+9307
+step: 1
+9347
+step: 1
+9391
+step: 1
+9452
+step: 1
+9509
+step: 1
+9571
+step: 1
+9650
+step: 1
+9731
+step: 1
+9779
+step: 1
+9844
+step: 1
+9913
+step: 1
+9956
+step: 1
+10014
+step: 1
+10067
+step: 1
+10169
+step: 1
+10249
+step: 1
+10333
+step: 1
+10404
+step: 1
+10466
+step: 1
+10507
+step: 1
+10572
+step: 1
+10643
+step: 1
+10700
+step: 1
+10769
+step: 1
+10836
+step: 1
+10885
+step: 1
+10956
+step: 1
+11022
+step: 1
+11069
+step: 1
+11125
+step: 1
+11173
+step: 1
+11223
+step: 1
+11272
+step: 1
+11323
+step: 1
+11384
+step: 1
+11438
+step: 1
+11502
+step: 1
+11568
+step: 1
+11634
+step: 1
+11694
+step: 1
+11768
+step: 1
+11808
+step: 1
+11870
+step: 1
+11918
+step: 1
+11962
+step: 1
+12022
+step: 1
+12127
+step: 1
+12202
+step: 1
+12248
+step: 1
+12294
+step: 1
+12360
+step: 1
+12405
+step: 1
+12470
+step: 1
+12537
+step: 1
+12588
+step: 1
+12650
+step: 1
+12720
+step: 1
+12762
+step: 1
+12810
+step: 1
+12890
+step: 1
+12955
+step: 1
+13001
+step: 1
+13041
+step: 1
+13105
+step: 1
+13155
+step: 1
+13223
+step: 1
+13287
+step: 1
+13332
+step: 1
+13374
+step: 1
+13436
+step: 1
+13495
+step: 1
+13563
+step: 1
+13609
+step: 1
+13675
+step: 1
+13722
+step: 1
+13783
+step: 1
+13847
+step: 1
+13910
+step: 1
+14001
+step: 1
+14061
+step: 1
+14121
+step: 1
+14197
+step: 1
+14246
+step: 1
+14309
+step: 1
+14351
+step: 1
+14428
+step: 1
+14490
+step: 1
+14567
+step: 1
+14631
+step: 1
+14684
+step: 1
+14782
+step: 1
+14850
+step: 1
+14905
+step: 1
+14950
+step: 1
+14995
+step: 1
+15051
+step: 1
+15103
+step: 1
+15156
+step: 1
+15207
+step: 1
+15257
+step: 1
+15323
+step: 1
+15385
+step: 1
+15460
+step: 1
+15531
+step: 1
+15570
+step: 1
+15609
+step: 1
+15672
+step: 1
+15743
+step: 1
+15818
+step: 1
+15880
+step: 1
+15967
+step: 1
+16062
+step: 1
+16119
+step: 1
+16156
+step: 1
+16212
+step: 1
+16265
+step: 1
+16327
+step: 1
+16377
+step: 1
+16434
+step: 1
+16507
+step: 1
+16556
+step: 1
+16630
+step: 1
+16711
+step: 1
+16785
+step: 1
+16847
+step: 1
+16902
+step: 1
+16944
+step: 1
+17017
+step: 1
+17088
+step: 1
+17176
+step: 1
+17240
+step: 1
+17291
+step: 1
+17348
+step: 1
+17402
+step: 1
+17493
+step: 1
+17558
+step: 1
+17609
+step: 1
+17656
+step: 1
+17702
+step: 1
+17755
+step: 1
+17811
+step: 1
+17856
+step: 1
+17950
+step: 1
+18049
+step: 1
+18123
+step: 1
+18204
+step: 1
+18279
+step: 1
+18345
+step: 1
+18412
+step: 1
+18471
+step: 1
+18505
+step: 1
+18549
+step: 1
+18603
+step: 1
+18664
+step: 1
+18699
+step: 1
+18764
+step: 1
+18817
+step: 1
+18866
+step: 1
+18922
+step: 1
+18998
+step: 1
+19056
+step: 1
+19119
+step: 1
+19183
+step: 1
+19230
+step: 1
+19308
+step: 1
+19362
+step: 1
+19441
+step: 1
+19485
+step: 1
+19565
+step: 1
+19624
+step: 1
+19678
+step: 1
+19732
+step: 1
+19786
+step: 1
+19888
+step: 1
+19999
+step: 1
+20085
+step: 1
+20153
+step: 1
+20224
+step: 1
+20305
+step: 1
+20363
+step: 1
+20429
+step: 1
+20482
+step: 1
+20538
+step: 1
+20599
+step: 1
+20664
+step: 1
+20712
+step: 1
+20763
+step: 1
+20814
+step: 1
+20852
+step: 1
+20906
+step: 1
+20970
+step: 1
+21037
+step: 1
+21114
+step: 1
+21161
+step: 1
+21215
+step: 1
+21265
+step: 1
+21321
+step: 1
+21360
+step: 1
+21444
+step: 1
+21512
+step: 1
+21584
+step: 1
+21663
+step: 1
+21728
+step: 1
+21801
+step: 1
+21846
+step: 1
+21920
+step: 1
+22006
+step: 1
+22076
+step: 1
+22124
+step: 1
+22158
+step: 1
+22196
+step: 1
+22276
+step: 1
+22345
+step: 1
+22400
+step: 1
+22430
+step: 1
+22495
+step: 1
+22554
+step: 1
+22609
+step: 1
+22661
+step: 1
+22732
+step: 1
+22789
+step: 1
+22815
+step: 1
+22870
+step: 1
+22939
+step: 1
+23003
+step: 1
+23063
+step: 1
+23109
+step: 1
+23174
+step: 1
+23240
+step: 1
+23304
+step: 1
+23392
+step: 1
+23466
+step: 1
+23544
+step: 1
+23612
+step: 1
+23666
+step: 1
+23730
+step: 1
+23797
+step: 1
+23842
+step: 1
+23912
+step: 1
+23984
+step: 1
+24026
+step: 1
+24079
+step: 1
+24153
+step: 1
+24203
+step: 1
+24257
+step: 1
+24329
+step: 1
+24378
+step: 1
+24425
+step: 1
+24490
+step: 1
+24551
+step: 1
+24590
+step: 1
+24637
+step: 1
+24674
+step: 1
+24728
+step: 1
+24782
+step: 1
+24828
+step: 1
+24926
+step: 1
+24990
+step: 1
+25034
+step: 1
+25090
+step: 1
+25157
+step: 1
+25229
+step: 1
+25306
+step: 1
+25383
+step: 1
+25442
+step: 1
+25510
+step: 1
+25556
+step: 1
+25610
+step: 1
+25682
+step: 1
+25744
+step: 1
+25811
+step: 1
+25866
+step: 1
+25906
+step: 1
+25983
+step: 1
+26071
+step: 1
+26138
+step: 1
+26194
+step: 1
+26262
+step: 1
+26321
+step: 1
+26373
+step: 1
+26440
+step: 1
+26497
+step: 1
+26545
+step: 1
+26594
+step: 1
+26635
+step: 1
+26677
+step: 1
+26728
+step: 1
+26775
+step: 1
+26852
+step: 1
+26904
+step: 1
+26970
+step: 1
+27081
+step: 1
+27151
+step: 1
+27222
+step: 1
+27293
+step: 1
+27374
+step: 1
+27446
+step: 1
+27526
+step: 1
+27629
+step: 1
+27737
+step: 1
+27882
+step: 1
+28019
+step: 1
+28139
+step: 1
+28205
+step: 1
+28262
+step: 1
+28332
+step: 1
+28398
+step: 1
+28482
+step: 1
+28559
+step: 1
+28663
+step: 1
+28717
+step: 1
+28768
+step: 1
+28826
+step: 1
+28904
+step: 1
+28947
+step: 1
+29007
+step: 1
+29060
+step: 1
+29110
+step: 1
+29155
+step: 1
+29211
+step: 1
+29272
+step: 1
+29316
+step: 1
+29353
+step: 1
+29448
+step: 1
+29531
+step: 1
+29625
+step: 1
+29718
+step: 1
+29812
+step: 1
+29895
+step: 1
+29954
+step: 1
+30050
+step: 1
+30122
+step: 1
+30228
+step: 1
+30354
+step: 1
+30443
+step: 1
+30517
+step: 1
+30562
+step: 1
+30620
+step: 1
+30696
+step: 1
+30780
+step: 1
+30858
+step: 1
+30941
+step: 1
+31048
+step: 1
+31129
+step: 1
+31200
+step: 1
+31254
+step: 1
+31297
+step: 1
+31353
+step: 1
+31405
+step: 1
+31456
+step: 1
+31511
+step: 1
+31560
+step: 1
+31615
+step: 1
+31663
+step: 1
+31716
+step: 1
+32280
+step: 1
+32716
+step: 1
+33025
+step: 1
+33217
+step: 1
+33379
+step: 1
+33528
+step: 1
+33639
+step: 1
+33756
+step: 1
+33858
+step: 1
+33962
+step: 1
+34052
+step: 1
+34159
+step: 1
+34320
+step: 1
+34458
+step: 1
+34541
+step: 1
+34618
+step: 1
+34679
+step: 1
+34771
+step: 1
+34826
+step: 1
+34870
+step: 1
+34935
+step: 1
+35009
+step: 1
+35061
+step: 1
+35105
+step: 1
+35176
+step: 1
+35249
+step: 1
+35313
+step: 1
+35373
+step: 1
+35440
+step: 1
+35499
+step: 1
+35546
+step: 1
+35611
+step: 1
+36132
+step: 1
+36522
+step: 1
+36866
+step: 1
+37059
+step: 1
+37253
+step: 1
+37387
+step: 1
+37506
+step: 1
+37646
+step: 1
+37783
+step: 1
+37903
+step: 1
+38027
+step: 1
+38172
+step: 1
+38252
+step: 1
+38341
+step: 1
+38476
+step: 1
+38585
+step: 1
+38684
+step: 1
+38784
+step: 1
+38898
+step: 1
+39007
+step: 1
+39113
+step: 1
+39230
+step: 1
+39286
+step: 1
+39356
+step: 1
+39436
+step: 1
+39506
+step: 1
+39591
+step: 1
+39696
+step: 1
+39774
+step: 1
+39851
+step: 1
+39890
+step: 1
+39955
+step: 1
+40547
+step: 1
+40981
+step: 1
+41310
+step: 1
+41514
+step: 1
+41737
+step: 1
+41919
+step: 1
+42076
+step: 1
+42253
+step: 1
+42415
+step: 1
+42614
+step: 1
+42925
+step: 1
+43217
+step: 1
+43383
+step: 1
+43549
+step: 1
+43804
+step: 1
+44010
+step: 1
+44178
+step: 1
+44357
+step: 1
+44619
+step: 1
+44782
+step: 1
+44883
+step: 1
+44950
+step: 1
+45106
+step: 1
+45191
+step: 1
+45255
+step: 1
+45325
+step: 1
+45489
+step: 1
+45650
+step: 1
+45780
+step: 1
+45937
+step: 1
+46053
+step: 1
+46153
+step: 1
+46292
+step: 1
+46381
+step: 1
+46464
+step: 1
+46560
+step: 1
+46661
+step: 1
+46744
+step: 1
+46818
+step: 1
+46894
+step: 1
+46972
+step: 1
+47049
+step: 1
+47130
+step: 1
+47236
+step: 1
+47303
+step: 1
+47389
+step: 1
+47456
+step: 1
+47555
+step: 1
+47639
+step: 1
+47707
+step: 1
+47776
+step: 1
+47839
+step: 1
+47955
+step: 1
+48087
+step: 1
+48221
+step: 1
+48382
+step: 1
+48521
+step: 1
+48662
+step: 1
+48766
+step: 1
+48936
+step: 1
+49120
+step: 1
+49275
+step: 1
+49397
+step: 1
+49623
+step: 1
+49740
+step: 1
+49835
+step: 1
+49909
+step: 1
+49989
+step: 1
+50086
+step: 1
+50162
+step: 1
+50269
+step: 1
+50358
+step: 1
+50430
+step: 1
+50502
+step: 1
+50556
+step: 1
+50626
+step: 1
+50704
+step: 1
+50780
+step: 1
+50880
+step: 1
+50959
+step: 1
+51045
+step: 1
+51108
+step: 1
+51153
+step: 1
+51201
+step: 1
+51273
+step: 1
+51318
+step: 1
+51390
+step: 1
+51449
+step: 1
+51508
+step: 1
+51556
+step: 1
+51598
+step: 1
+51681
+step: 1
+51735
+step: 1
+51821
+step: 1
+51900
+step: 1
+51990
+step: 1
+52109
+step: 1
+52230
+step: 1
+52339
+step: 1
+52429
+step: 1
+52511
+step: 1
+52575
+step: 1
+52640
+step: 1
+52730
+step: 1
+52822
+step: 1
+52905
+step: 1
+52971
+step: 1
+53067
+step: 1
+53191
+step: 1
+53274
+step: 1
+53358
+step: 1
+53427
+step: 1
+53483
+step: 1
+53567
+step: 1
+53618
+step: 1
+53657
+step: 1
+53740
+step: 1
+53821
+step: 1
+53859
+step: 1
+53908
+step: 1
+53957
+step: 1
+54000
+step: 1
+54076
+step: 1
+54136
+step: 1
+54213
+step: 1
+54284
+step: 1
+54343
+step: 1
+54403
+step: 1
+54562
+step: 1
+54659
+step: 1
+54754
+step: 1
+54840
+step: 1
+54948
+step: 1
+55036
+step: 1
+55118
+step: 1
+55185
+step: 1
+55248
+step: 1
+55327
+step: 1
+55388
+step: 1
+55488
+step: 1
+55583
+step: 1
+55684
+step: 1
+55780
+step: 1
+55848
+step: 1
+55943
+step: 1
+56026
+step: 1
+56096
+step: 1
+56176
+step: 1
+56249
+step: 1
+56323
+step: 1
+56363
+step: 1
+56429
+step: 1
+56471
+step: 1
+56539
+step: 1
+56600
+step: 1
+56654
+step: 1
+56715
+step: 1
+56766
+step: 1
+56823
+step: 1
+56898
+step: 1
+57201
+step: 1
+57399
+step: 1
+57590
+step: 1
+57695
+step: 1
+57781
+step: 1
+57885
+step: 1
+57998
+step: 1
+58140
+step: 1
+58237
+step: 1
+58351
+step: 1
+58525
+step: 1
+58687
+step: 1
+58819
+step: 1
+58958
+step: 1
+59042
+step: 1
+59175
+step: 1
+59293
+step: 1
+59414
+step: 1
+59471
+step: 1
+59562
+step: 1
+59656
+step: 1
+59712
+step: 1
+59759
+step: 1
+59821
+step: 1
+59893
+step: 1
+59987
+step: 1
+60060
+step: 1
+60136
+step: 1
+60203
+step: 1
+60260
+step: 1
+60307
+step: 1
+60379
+step: 1
+60714
+step: 1
+60993
+step: 1
+61176
+step: 1
+61299
+step: 1
+61414
+step: 1
+61520
+step: 1
+61663
+step: 1
+61793
+step: 1
+61889
+step: 1
+61959
+step: 1
+62032
+step: 1
+62170
+step: 1
+62335
+step: 1
+62504
+step: 1
+62591
+step: 1
+62794
+step: 1
+63012
+step: 1
+63196
+step: 1
+63404
+step: 1
+63677
+step: 1
+63917
+step: 1
+64115
+step: 1
+64241
+step: 1
+64346
+step: 1
+64443
+step: 1
+64619
+step: 1
+64797
+step: 1
+64916
+step: 1
+65026
+step: 1
+65116
+step: 1
+65203
+step: 1
+65273
+step: 1
+65396
+step: 1
+65490
+step: 1
+65594
+step: 1
+65670
+step: 1
+65750
+step: 1
+65812
+step: 1
+65871
+step: 1
+65947
+step: 1
+66004
+step: 1
+66083
+step: 1
+66130
+step: 1
+66200
+step: 1
+66269
+step: 1
+66354
+step: 1
+66438
+step: 1
+66556
+step: 1
+66664
+step: 1
+66758
+step: 1
+66846
+step: 1
+66918
+step: 1
+67023
+step: 1
+67170
+step: 1
+67282
+step: 1
+67403
+step: 1
+67535
+step: 1
+67661
+step: 1
+67800
+step: 1
+67922
+step: 1
+68080
+step: 1
+68216
+step: 1
+68389
+step: 1
+68502
+step: 1
+68570
+step: 1
+68647
+step: 1
+68719
+step: 1
+68801
+step: 1
+68914
+step: 1
+68968
+step: 1
+69037
+step: 1
+69108
+step: 1
+69198
+step: 1
+69258
+step: 1
+69341
+step: 1
+69434
+step: 1
+69517
+step: 1
+69588
+step: 1
+69639
+step: 1
+69704
+step: 1
+69778
+step: 1
+69858
+step: 1
+69906
+step: 1
+69965
+step: 1
+70023
+step: 1
+70082
+step: 1
+70148
+step: 1
+70224
+step: 1
+70306
+step: 1
+70414
+step: 1
+70470
+step: 1
+70550
+step: 1
+70672
+step: 1
+70777
+step: 1
+70883
+step: 1
+70995
+step: 1
+71068
+step: 1
+71174
+step: 1
+71213
+step: 1
+71271
+step: 1
+71358
+step: 1
+71431
+step: 1
+71508
+step: 1
+71596
+step: 1
+71659
+step: 1
+71707
+step: 1
+71782
+step: 1
+71867
+step: 1
+71965
+step: 1
+72054
+step: 1
+72106
+step: 1
+72175
+step: 1
+72255
+step: 1
+72344
+step: 1
+72428
+step: 1
+72514
+step: 1
+72588
+step: 1
+72648
+step: 1
+72727
+step: 1
+72775
+step: 1
+72870
+step: 1
+72964
+step: 1
+73025
+step: 1
+73089
+step: 1
+73139
+step: 1
+73219
+step: 1
+73312
+step: 1
+73420
+step: 1
+73505
+step: 1
+73584
+step: 1
+73664
+step: 1
+73772
+step: 1
+73874
+step: 1
+74001
+step: 1
+74099
+step: 1
+74205
+step: 1
+74311
+step: 1
+74397
+step: 1
+74464
+step: 1
+74527
+step: 1
+74588
+step: 1
+74640
+step: 1
+74736
+step: 1
+74842
+step: 1
+74937
+step: 1
+75012
+step: 1
+75076
+step: 1
+75147
+step: 1
+75253
+step: 1
+75319
+step: 1
+75363
+step: 1
+75453
+step: 1
+75573
+step: 1
+75689
+step: 1
+75796
+step: 1
+75871
+step: 1
+75927
+step: 1
+75998
+step: 1
+76096
+step: 1
+76177
+step: 1
+76250
+step: 1
+76345
+step: 1
+76453
+step: 1
+76552
+step: 1
+76645
+step: 1
+76688
+step: 1
+76784
+step: 1
+76893
+step: 1
+76965
+step: 1
+77062
+step: 1
+77148
+step: 1
+77254
+step: 1
+77321
+step: 1
+77396
+step: 1
+77463
+step: 1
+77515
+step: 1
+77619
+step: 1
+77695
+step: 1
+77759
+step: 1
+77828
+step: 1
+77916
+step: 1
+77987
+step: 1
+78042
+step: 1
+78104
+step: 1
+78198
+step: 1
+78306
+step: 1
+78388
+step: 1
+78441
+step: 1
+78539
+step: 1
+78612
+step: 1
+78691
+step: 1
+78756
+step: 1
+78872
+step: 1
+78964
+step: 1
+79057
+step: 1
+79126
+step: 1
+79203
+step: 1
+79299
+step: 1
+79373
+step: 1
+79444
+step: 1
+79522
+step: 1
+79630
+step: 1
+79728
+step: 1
+79800
+step: 1
+79908
+step: 1
+80008
+step: 1
+80095
+step: 1
+80191
+step: 1
+80281
+step: 1
+80361
+step: 1
+80398
+step: 1
+80458
+step: 1
+80529
+step: 1
+80585
+step: 1
+80658
+step: 1
+80711
+step: 1
+80805
+step: 1
+80870
+step: 1
+80938
+step: 1
+81014
+step: 1
+81103
+step: 1
+81167
+step: 1
+81234
+step: 1
+81310
+step: 1
+81354
+step: 1
+81407
+step: 1
+81479
+step: 1
+81537
+step: 1
+81594
+step: 1
+81634
+step: 1
+81687
+step: 1
+81745
+step: 1
+81829
+step: 1
+81942
+step: 1
+82052
+step: 1
+82138
+step: 1
+82233
+step: 1
+82303
+step: 1
+82395
+step: 1
+82455
+step: 1
+82507
+step: 1
+82559
+step: 1
+82622
+step: 1
+82700
+step: 1
+82785
+step: 1
+82846
+step: 1
+82893
+step: 1
+82940
+step: 1
+82998
+step: 1
+83054
+step: 1
+83112
+step: 1
+83167
+step: 1
+83226
+step: 1
+83307
+step: 1
+83374
+step: 1
+83421
+step: 1
+57
+step: 1
+128
+step: 1
+204
+step: 1
+261
+step: 1
+303
+step: 1
+348
+step: 1
+391
+step: 1
+463
+step: 1
+511
+step: 1
+563
+step: 1
+611
+step: 1
+659
+step: 1
+720
+step: 1
+785
+step: 1
+849
+step: 1
+912
+step: 1
+968
+step: 1
+1035
+step: 1
+1107
+step: 1
+1164
+step: 1
+1191
+step: 1
+1236
+step: 1
+1285
+step: 1
+1347
+step: 1
+1393
+step: 1
+1440
+step: 1
+1504
+step: 1
+1589
+step: 1
+1665
+step: 1
+1737
+step: 1
+1780
+step: 1
+1853
+step: 1
+1916
+step: 1
+1955
+step: 1
+2030
+step: 1
+2107
+step: 1
+2182
+step: 1
+2235
+step: 1
+2283
+step: 1
+2354
+step: 1
+2400
+step: 1
+2446
+step: 1
+2508
+step: 1
+2609
+step: 1
+2670
+step: 1
+2728
+step: 1
+2790
+step: 1
+2859
+step: 1
+2921
+step: 1
+2979
+step: 1
+3055
+step: 1
+3125
+step: 1
+3188
+step: 1
+3241
+step: 1
+3282
+step: 1
+3343
+step: 1
+3384
+step: 1
+3427
+step: 1
+3476
+step: 1
+3543
+step: 1
+3627
+step: 1
+3690
+step: 1
+3747
+step: 1
+3808
+step: 1
+3869
+step: 1
+3911
+step: 1
+3978
+step: 1
+4071
+step: 1
+4127
+step: 1
+4174
+step: 1
+4231
+step: 1
+4315
+step: 1
+4373
+step: 1
+4421
+step: 1
+4487
+step: 1
+4590
+step: 1
+4655
+step: 1
+4700
+step: 1
+4776
+step: 1
+4846
+step: 1
+4907
+step: 1
+4964
+step: 1
+5026
+step: 1
+5105
+step: 1
+5186
+step: 1
+5234
+step: 1
+5299
+step: 1
+5368
+step: 1
+5411
+step: 1
+5469
+step: 1
+5522
+step: 1
+5624
+step: 1
+5704
+step: 1
+5788
+step: 1
+5859
+step: 1
+5921
+step: 1
+5975
+step: 1
+6039
+step: 1
+6105
+step: 1
+6171
+step: 1
+6231
+step: 1
+6305
+step: 1
+6345
+step: 1
+6407
+step: 1
+6455
+step: 1
+6499
+step: 1
+6559
+step: 1
+6664
+step: 1
+6739
+step: 1
+6785
+step: 1
+6831
+step: 1
+6897
+step: 1
+6942
+step: 1
+6984
+step: 1
+7046
+step: 1
+7105
+step: 1
+7173
+step: 1
+7219
+step: 1
+7285
+step: 1
+7332
+step: 1
+7393
+step: 1
+7457
+step: 1
+7520
+step: 1
+7611
+step: 1
+7671
+step: 1
+7731
+step: 1
+7807
+step: 1
+7856
+step: 1
+7906
+step: 1
+7972
+step: 1
+8034
+step: 1
+8109
+step: 1
+8180
+step: 1
+8219
+step: 1
+8258
+step: 1
+8321
+step: 1
+8392
+step: 1
+8467
+step: 1
+8529
+step: 1
+8616
+step: 1
+8711
+step: 1
+8768
+step: 1
+8805
+step: 1
+8861
+step: 1
+8912
+step: 1
+8969
+step: 1
+9023
+step: 1
+9114
+step: 1
+9179
+step: 1
+9230
+step: 1
+9277
+step: 1
+9323
+step: 1
+9376
+step: 1
+9432
+step: 1
+9477
+step: 1
+9571
+step: 1
+9670
+step: 1
+9744
+step: 1
+9825
+step: 1
+9900
+step: 1
+9947
+step: 1
+10025
+step: 1
+10079
+step: 1
+10158
+step: 1
+10202
+step: 1
+10282
+step: 1
+10341
+step: 1
+10395
+step: 1
+10449
+step: 1
+10503
+step: 1
+10605
+step: 1
+10716
+step: 1
+10802
+step: 1
+10870
+step: 1
+10941
+step: 1
+11022
+step: 1
+11072
+step: 1
+11128
+step: 1
+11167
+step: 1
+11251
+step: 1
+11319
+step: 1
+11391
+step: 1
+11470
+step: 1
+11535
+step: 1
+11608
+step: 1
+11653
+step: 1
+11727
+step: 1
+11813
+step: 1
+11883
+step: 1
+11931
+step: 1
+11965
+step: 1
+12003
+step: 1
+12068
+step: 1
+12134
+step: 1
+12198
+step: 1
+12286
+step: 1
+12360
+step: 1
+12438
+step: 1
+12506
+step: 1
+12560
+step: 1
+12624
+step: 1
+12691
+step: 1
+12736
+step: 1
+12806
+step: 1
+12878
+step: 1
+12920
+step: 1
+12973
+step: 1
+13047
+step: 1
+13103
+step: 1
+13170
+step: 1
+13242
+step: 1
+13319
+step: 1
+13396
+step: 1
+13455
+step: 1
+13523
+step: 1
+13569
+step: 1
+13623
+step: 1
+13695
+step: 1
+13757
+step: 1
+13824
+step: 1
+13879
+step: 1
+13919
+step: 1
+13996
+step: 1
+14084
+step: 1
+14195
+step: 1
+14265
+step: 1
+14336
+step: 1
+14407
+step: 1
+14488
+step: 1
+14560
+step: 1
+14640
+step: 1
+14743
+step: 1
+14851
+step: 1
+14996
+step: 1
+15133
+step: 1
+15253
+step: 1
+15319
+step: 1
+15376
+step: 1
+15446
+step: 1
+15512
+step: 1
+15607
+step: 1
+15690
+step: 1
+15784
+step: 1
+15877
+step: 1
+15971
+step: 1
+16054
+step: 1
+16113
+step: 1
+16209
+step: 1
+16281
+step: 1
+16387
+step: 1
+16513
+step: 1
+16602
+step: 1
+16676
+step: 1
+16721
+step: 1
+16779
+step: 1
+16855
+step: 1
+57
+step: 1
+128
+step: 1
+204
+step: 1
+261
+step: 1
+303
+step: 1
+348
+step: 1
+391
+step: 1
+463
+step: 1
+511
+step: 1
+563
+step: 1
+611
+step: 1
+659
+step: 1
+720
+step: 1
+785
+step: 1
+849
+step: 1
+912
+step: 1
+968
+step: 1
+1035
+step: 1
+1107
+step: 1
+1164
+step: 1
+1191
+step: 1
+1236
+step: 1
+1285
+step: 1
+1347
+step: 1
+1393
+step: 1
+1440
+step: 1
+1504
+step: 1
+1589
+step: 1
+1665
+step: 1
+1737
+step: 1
+1780
+step: 1
+1853
+step: 1
+1916
+step: 1
+1955
+step: 1
+2030
+step: 1
+2107
+step: 1
+2182
+step: 1
+2235
+step: 1
+2283
+step: 1
+2354
+step: 1
+2400
+step: 1
+2446
+step: 1
+2508
+step: 1
+2609
+step: 1
+2670
+step: 1
+2728
+step: 1
+2790
+step: 1
+2859
+step: 1
+2921
+step: 1
+2979
+step: 1
+3055
+step: 1
+3125
+step: 1
+3188
+step: 1
+3241
+step: 1
+3282
+step: 1
+3343
+step: 1
+3384
+step: 1
+3427
+step: 1
+3476
+step: 1
+3543
+step: 1
+3627
+step: 1
+3690
+step: 1
+3747
+step: 1
+3808
+step: 1
+3869
+step: 1
+3911
+step: 1
+3978
+step: 1
+4071
+step: 1
+4127
+step: 1
+4174
+step: 1
+4231
+step: 1
+4315
+step: 1
+4373
+step: 1
+4421
+step: 1
+4487
+step: 1
+4590
+step: 1
+4655
+step: 1
+4700
+step: 1
+4776
+step: 1
+4846
+step: 1
+4907
+step: 1
+4964
+step: 1
+5026
+step: 1
+5105
+step: 1
+5186
+step: 1
+5234
+step: 1
+5299
+step: 1
+5368
+step: 1
+5411
+step: 1
+5469
+step: 1
+5522
+step: 1
+5624
+step: 1
+5704
+step: 1
+5788
+step: 1
+5859
+step: 1
+5921
+step: 1
+5975
+step: 1
+6039
+step: 1
+6105
+step: 1
+6171
+step: 1
+6231
+step: 1
+6305
+step: 1
+6345
+step: 1
+6407
+step: 1
+6455
+step: 1
+6499
+step: 1
+6559
+step: 1
+6664
+step: 1
+6739
+step: 1
+6785
+step: 1
+6831
+step: 1
+6897
+step: 1
+6942
+step: 1
+6984
+step: 1
+7046
+step: 1
+7105
+step: 1
+7173
+step: 1
+7219
+step: 1
+7285
+step: 1
+7332
+step: 1
+7393
+step: 1
+7457
+step: 1
+7520
+step: 1
+7611
+step: 1
+7671
+step: 1
+7731
+step: 1
+7807
+step: 1
+7856
+step: 1
+7906
+step: 1
+7972
+step: 1
+8034
+step: 1
+8109
+step: 1
+8180
+step: 1
+8219
+step: 1
+8258
+step: 1
+8321
+step: 1
+8392
+step: 1
+8467
+step: 1
+8529
+step: 1
+8616
+step: 1
+8711
+step: 1
+8768
+step: 1
+8805
+step: 1
+8861
+step: 1
+8912
+step: 1
+8969
+step: 1
+9023
+step: 1
+9114
+step: 1
+9179
+step: 1
+9230
+step: 1
+9277
+step: 1
+9323
+step: 1
+9376
+step: 1
+9432
+step: 1
+9477
+step: 1
+9571
+step: 1
+9670
+step: 1
+9744
+step: 1
+9825
+step: 1
+9900
+step: 1
+9947
+step: 1
+10025
+step: 1
+10079
+step: 1
+10158
+step: 1
+10202
+step: 1
+10282
+step: 1
+10341
+step: 1
+10395
+step: 1
+10449
+step: 1
+10503
+step: 1
+10605
+step: 1
+10716
+step: 1
+10802
+step: 1
+10870
+step: 1
+10941
+step: 1
+11022
+step: 1
+11072
+step: 1
+11128
+step: 1
+11167
+step: 1
+11251
+step: 1
+11319
+step: 1
+11391
+step: 1
+11470
+step: 1
+11535
+step: 1
+11608
+step: 1
+11653
+step: 1
+11727
+step: 1
+11813
+step: 1
+11883
+step: 1
+11931
+step: 1
+11965
+step: 1
+12003
+step: 1
+12068
+step: 1
+12134
+step: 1
+12198
+step: 1
+12286
+step: 1
+12360
+step: 1
+12438
+step: 1
+12506
+step: 1
+12560
+step: 1
+12624
+step: 1
+12691
+step: 1
+12736
+step: 1
+12806
+step: 1
+12878
+step: 1
+12920
+step: 1
+12973
+step: 1
+13047
+step: 1
+13103
+step: 1
+13170
+step: 1
+13242
+step: 1
+13319
+step: 1
+13396
+step: 1
+13455
+step: 1
+13523
+step: 1
+13569
+step: 1
+13623
+step: 1
+13695
+step: 1
+13757
+step: 1
+13824
+step: 1
+13879
+step: 1
+13919
+step: 1
+13996
+step: 1
+14084
+step: 1
+14195
+step: 1
+14265
+step: 1
+14336
+step: 1
+14407
+step: 1
+14488
+step: 1
+14560
+step: 1
+14640
+step: 1
+14743
+step: 1
+14851
+step: 1
+14996
+step: 1
+15133
+step: 1
+15253
+step: 1
+15319
+step: 1
+15376
+step: 1
+15446
+step: 1
+15512
+step: 1
+15607
+step: 1
+15690
+step: 1
+15784
+step: 1
+15877
+step: 1
+15971
+step: 1
+16054
+step: 1
+16113
+step: 1
+16209
+step: 1
+16281
+step: 1
+16387
+step: 1
+16513
+step: 1
+16602
+step: 1
+16676
+step: 1
+16721
+step: 1
+16779
+step: 1
+16855
+step: 1

@@ -1,0 +1,16 @@
+reset
+
+# prepare for sim
+alias vlb='reset; rm -rf work; vlib work;'
+
+# compile source code
+alias vlg='vlog -f filelist_tb.f -f filelist_rtl.f +cover=bcefs -nocoverfec '
+
+# run simulation
+alias vsm0='vsim -c tb_affine_top  -voptargs=+acc +notimingchecks -wlf vsim_seq.wlf  -do " add wave -r tb_affine_top/*; run -all; "'
+
+
+# View wave
+alias viw0='vsim -view vsim_seq.wlf -do wave.do &'
+
+

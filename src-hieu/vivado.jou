@@ -1,0 +1,53 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:39:19 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Tue Nov 21 08:46:16 2023
+# Process ID: 56996
+# Current directory: /home/hieupt1/Desktop/H266/src-hieu
+# Command line: vivado
+# Log file: /home/hieupt1/Desktop/H266/src-hieu/vivado.log
+# Journal file: /home/hieupt1/Desktop/H266/src-hieu/vivado.jou
+#-----------------------------------------------------------
+start_gui
+create_project project_affine /home/hieupt1/Desktop/H266/project_affine -part xczu7ev-fbvb900-1-i
+set_property board_part em.avnet.com:ultrazed_ev_som:part0:1.2 [current_project]
+add_files -norecurse {/home/hieupt1/Desktop/H266/src-hieu/hdl/affine_control.sv /home/hieupt1/Desktop/H266/src-hieu/hdl/had.sv /home/hieupt1/Desktop/H266/src-hieu/hdl/filter.sv /home/hieupt1/Desktop/H266/src-hieu/hdl/pdof.sv /home/hieupt1/Desktop/H266/src-hieu/hdl/cur_data.sv /home/hieupt1/Desktop/H266/src-hieu/hdl/init_6.sv /home/hieupt1/Desktop/H266/src-hieu/hdl/init_4.sv /home/hieupt1/Desktop/H266/src-hieu/hdl/calc_addr.sv /home/hieupt1/Desktop/H266/src-hieu/hdl/ref_data.sv /home/hieupt1/Desktop/H266/src-hieu/hdl/affine_top.sv}
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+launch_runs synth_1 -jobs 36
+wait_on_run synth_1
+file mkdir /home/hieupt1/Desktop/H266/project_affine/project_affine.srcs/constrs_1
+file mkdir /home/hieupt1/Desktop/H266/project_affine/project_affine.srcs/constrs_1/new
+close [ open /home/hieupt1/Desktop/H266/project_affine/project_affine.srcs/constrs_1/new/time.xdc w ]
+add_files -fileset constrs_1 /home/hieupt1/Desktop/H266/project_affine/project_affine.srcs/constrs_1/new/time.xdc
+open_run synth_1 -name synth_1
+set_property target_constrs_file /home/hieupt1/Desktop/H266/project_affine/project_affine.srcs/constrs_1/new/time.xdc [current_fileset -constrset]
+open_run synth_1 -name synth_1
+report_timing_summary -delay_type min_max -report_unconstrained -check_timing_verbose -max_paths 10 -input_pins -routable_nets -name timing_1
+reset_run synth_1
+launch_runs impl_1 -jobs 36
+wait_on_run impl_1
+create_run synth_2 -flow {Vivado Synthesis 2018} -strategy {Vivado Synthesis Defaults} -report_strategy {Vivado Synthesis Default Reports}
+current_run [get_runs synth_2]
+set_property board_part xilinx.com:kcu1500:part0:1.1 [current_project]
+launch_runs synth_2 -jobs 36
+wait_on_run synth_2
+set_property board_part alpha-data.com:adm-pcie-7v3:part0:1.1 [current_project]
+reset_run synth_2
+launch_runs synth_2 -jobs 36
+wait_on_run synth_2
+set_property board_part alpha-data.com:adm-pcie3-ku3:part0:1.0 [current_project]
+reset_run synth_2
+launch_runs synth_2 -jobs 36
+wait_on_run synth_2
+set_property part xa7s100fgga676-1I [current_project]
+reset_run synth_2
+launch_runs synth_2 -jobs 36
+wait_on_run synth_2
+set_property board_part trenz.biz:te0820_2cg_1e:part0:2.0 [current_project]
+reset_run synth_2
+launch_runs synth_2 -jobs 36
+wait_on_run synth_2
+launch_runs impl_2 -jobs 36
+wait_on_run impl_2
